@@ -10,12 +10,12 @@ nav, footer {
 }
 
 #jumbotron-section {
-height: 560px;
-background-image: url("../img/auto-shop-3.jpg");
-background-size: cover;
-background-position:center center;
+    height: 560px;
+    background-image: url("../img/auto-shop-3.jpg");
+    background-size: cover;
+    background-position: center center;
+    
 }
-
 main {
     margin: 5.5rem 0;
 }
